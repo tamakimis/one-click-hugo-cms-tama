@@ -1,6 +1,6 @@
 ---
 title: お問い合わせ
-logo: /img/logo.svg
+logo: img/クリーム色-クラシック-楕円-ホテルのロゴ.png
 contact_entries:
   - heading: アクセス
     text: |-
